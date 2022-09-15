@@ -212,47 +212,4 @@ window.addEventListener("scroll", function(){
 });
         // 
         // END Header
-        // 
-        // Start glimpes page
-        var s20 = document.querySelector('.s20');
-        var s21 = document.querySelector('.s21');
-        var s22 = document.querySelector('.s22');
-        var glimpse1 = document.querySelector('#glimpse1');
-        var glimpse2 = document.querySelector('#glimpse2');
-        var howare = document.querySelector('#testis');
-        var slider2 = document.querySelector('.img2');
-        var slider3 = document.querySelector('.img3');
-        var slider4 = document.querySelector('.img4');
-        var slider5 = document.querySelector('.img5');
-
-
-        s20.addEventListener("click", function(){
-            // glimpse1.style.display = "none";
-            glimpse1.innerHTML = 'The first STEM MUN conference held a simulation for the UN security council with its current 15 members and other 7 members who are directly engaged in the Yemen civil war conflict. All participating delegates received training to teach them how foreign policy works, the principles and procedures of a UN conference, and the recognized way to encounter world issues through debating, providing evidence, and presenting resolutions.' ;
-            glimpse2.innerHTML = "The conference was held at Empire Training and Education at 6th of October city by the attendance of the 22 delegates, STEM October school principal, school counselor, and STEM Maadi deputy. After previous preparation and hard work, the conference was proven to be a remarkable simulation of the UN among high schoolers, the delegates showed unique diplomacy and professionalism, and received acclaim from all attendees.";
-            howare.src="img/about3.jpg";
-            // slider3.setAttribute("src","img/about3.jpg");
-            // slider4.setAttribute("src","img/about4.jpg");
-            // slider5.setAttribute("src","img/about5.jpg");
-
-
-
-
-        });
-        s21.addEventListener("click", function(){
-            // glimpse1.style.display = "none";
-            glimpse1.innerHTML ="text changed" ;
-            glimpse2.innerHTML ="text changed" ;
-            howare.src="/img/about3.jpg";
-            console.log(howare)
-
-           
-
-        });
-        
-
-
-
-        // END glimpes page
-
-        
+        //
