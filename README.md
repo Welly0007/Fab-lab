@@ -1,2 +1,1 @@
-# 🇺🇳 STEM MUN Website
-The STEM MUN website, duh.
+#The official Website for STEM October Fabrication laboratory
